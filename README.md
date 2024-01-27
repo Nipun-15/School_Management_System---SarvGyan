@@ -1,8 +1,4 @@
 # School_Management_System---SarvGyan
-School Management System (Admin Perspective) to manage the data of both students and teachers.
-
-# School Records Management System
-
 Welcome to the School Records Management System! This project is a comprehensive solution for schools to efficiently manage student records. It encompasses user authentication, parent details, teaching staff information, class details, student records, course subjects, and subject mentors.
 
 ## Table of Contents
